@@ -1,7 +1,3 @@
-Absolutely! I’ve integrated the links and resources you shared into your README in a structured “References & Further Reading” section. I also polished the wording so it flows naturally with your guide:
-
----
-
 # Ubuntu Desktop Autoinstaller (24.04 LTS)
 
 This project provides a fully automated, hands-free installation for **Ubuntu Desktop 24.04 LTS (Noble Numbat)** using the `autoinstall.yaml` mechanism. Starting with Ubuntu 24.04.1, the Desktop installer fully supports the same autoinstall functionality as Ubuntu Server.
