@@ -82,7 +82,7 @@ genisoimage -o ~/autoinstall.iso -V AUTOINSTALL -r -J ~/autoinstall
 5. Copy it back to your Windows desktop:
 
 ```bash
-cp ~/autoinstall.iso /mnt/c/Users/jaime/Desktop/
+cp ~/autoinstall.iso /mnt/c/(Where ever you want)
 ```
 
 ---
