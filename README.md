@@ -191,5 +191,3 @@ autoinstall:
 * [SSH Key Generation](https://www.ssh.com/academy/ssh/keygen) – How to generate secure SSH key pairs.
 * [Subiquity 24.04.1 Release Notes](https://discourse.ubuntu.com/t/subiquity-24-04-1-has-been-released-to-the-stable-channel/44493?utm_source=chatgpt.com) – Updates and improvements in the latest Subiquity installer.
 * [Autoinstall Video Tutorial](https://youtu.be/ibvxiybT96M?si=bBZ25yunys_H9CKb) – Visual walkthrough of autoinstall setup and usage.
-
-Do you want me to make that diagram next?
