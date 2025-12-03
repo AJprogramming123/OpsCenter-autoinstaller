@@ -3,10 +3,10 @@ autoinstall:
 
   # Identity setup
   identity:
-    hostname: workstation1
-    realname: Administrator
+    hostname: workstation-template
+    realname: Admin User
     username: admin
-    password: "$6$dy.YIeF9fdpBYX8s$ml43cQBbC7kGzL5wLcTrUeaWD7XYY4LXfltd7qiHFH.MBvRQmrUvjyc/SmJYZNPKWCPny1iBYb0DMHSX0tCfh1"
+    password: "$6$REPLACE_WITH_YOUR_HASH"   # placeholder hash
 
   # Keyboard layout
   keyboard:
@@ -24,7 +24,7 @@ autoinstall:
   ssh:
     install-server: true
     authorized-keys:
-      - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF31FO6M5wr3nRjoKA99Zbrkchi8wgay61g6od2i7ZKz jaime@partago"
+      - "ssh-ed25519 REPLACE_WITH_PUBLIC_KEY"
     allow-pw: false
 
   # During installation
